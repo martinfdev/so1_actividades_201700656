@@ -26,5 +26,4 @@
     - Persona 2: No tengo idea de lo que es IP.
 
     - Conclusión: Ambas personas no saben que es IP, la primera persona menciona que lo ha escuchado pero no sabe que es, la segunda persona menciona que no tiene idea de lo que es IP.
-
-```
+    
