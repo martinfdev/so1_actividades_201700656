@@ -56,8 +56,6 @@ Directorios de los usuarios creados:
     ```bash
     sudo usermod -aG grupo1 usuario1
     sudo usermod -aG grupo2 usuario2
-    ```
-![AgregarUsuariosGrupos](./screenshots/addusertogroups.png)
 
 3. Verificar Membresía: Verifica que los usuarios han sido agregados a los grupos utilizando el comando `groups`.
     ```bash
