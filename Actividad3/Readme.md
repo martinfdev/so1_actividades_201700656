@@ -87,6 +87,7 @@ Creacion de archivo1.txt:
 ![CreacionArchivo](./screenshots/createfile.png)
 
 Escribir en archivo1.txt:
+
 ![EscribirArchivo](./screenshots/writefile.png)
 
 - Crea un directorio llamado `directorio1` y dentro de ese directorio, un archivo llamado `archivo2.txt`.
@@ -129,7 +130,9 @@ Escribir en archivo1.txt:
 ![ConfigurarPermisosDirectorio](./screenshots/chmoddir.png)
 
 7. Comprobación de Acceso: Intenta acceder al `archivo1.txt` y `directorio1/archivo2.txt` como `usuario2`. Nota cómo el permiso de directorio afecta el acceso a los archivos dentro de él.
+
 ![ComprobacionAcceso](./screenshots/checkaccess.png)
+
 ![ComprobacionAcceso2](./screenshots/checkaccess2.png)
 
 8. Verificación Final: Verifica los permisos y propietario de los archivos y directorio nuevamente con `ls -l` y `ls -ld`.
