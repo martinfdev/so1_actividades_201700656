@@ -68,7 +68,6 @@ Directorios de los usuarios creados:
     ```bash
     sudo groupdel grupo2
     ```
-![EliminarGrupo](./screenshots/deletegroup.png)
 
 ### Parte 3: Gestión de Permisos
 1. Creación de Archivos y Directorios:
